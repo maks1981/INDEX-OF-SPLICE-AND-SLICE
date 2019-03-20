@@ -1,0 +1,34 @@
+// INDEX OF , SPLICE  AND SLICE
+
+
+/// indexOf()
+
+// var array = ['John','Helen','Frances'];
+// console.log(array.indexOf('Helen'))
+
+// if(array.indexOf('Helen') !== -1){
+//     console.log('Exists')
+// } else{
+//     console.log('Does not exists')
+// }
+
+
+/// splice()
+
+// var array = ['John','Helen','Frances','Mark','Benjamin'];
+// var newArray = array.splice(1,2);
+
+// //array.splice(1,2)
+// console.log(newArray)
+// console.log(array)
+
+
+/// slice()
+
+// var array = ['John','Helen','Frances','Mark','Benjamin'];
+// var newArray = array.slice(1,2);
+
+
+// console.log(newArray)
+// console.log(array)
+
